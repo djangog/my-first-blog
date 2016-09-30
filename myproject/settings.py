@@ -55,7 +55,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'myproject.urls'
 
 TEMPLATES = (
-    PROJECT_PATH + '/templates/',
+    '/templates/',
 )
 
 TEMPLATES = [
