@@ -6,3 +6,5 @@ db.sqlite3
 .DS_Store
 myapp
 myproject
+myproject/settings.py
+myproject/urls.py
